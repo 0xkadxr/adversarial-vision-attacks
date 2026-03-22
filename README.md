@@ -1,4 +1,4 @@
-![CI](https://github.com/kadirou12333/adversarial-vision-attacks/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/kadirou12333/adversarial-vision-attacks/actions/workflows/ci.yml/badge.svg?branch=master)
 
 # Adversarial Vision Attacks
 
